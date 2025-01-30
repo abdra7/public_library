@@ -56,6 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             min-height: 100vh;
             display: flex;
             flex-direction: column;
+           
         }
 
         main {
@@ -82,7 +83,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             justify-content: center;
             align-items: center;
             min-height: 350px;
-            width: 300px;
+            width: 400px;
             flex-direction: column;
             gap: 35px;
             background: #e3e3e3;

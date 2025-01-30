@@ -25,7 +25,6 @@
             <p>&copy; <?= date('Y') ?> Public Library. All rights reserved.</p>
         </div>
     </footer>
-
     <script src="script.js"></script>
 </body>
 </html>

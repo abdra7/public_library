@@ -379,6 +379,7 @@ main {
     background: white;
     padding: 3rem;
     border-radius: var(--border-radius);
+     
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
@@ -755,7 +756,7 @@ footer {
     left: 50%;
     transform: translateX(-50%);
     width: 250px;
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(221, 8, 8, 0.9);
     color: white;
     padding: 15px;
     border-radius: 5px;

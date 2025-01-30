@@ -36,7 +36,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Contact Us - Public Library</title>
+<link rel="icon" type="image/png" href="images/logo.png">
+    <title>Public Library</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
