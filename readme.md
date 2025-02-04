@@ -10,8 +10,4 @@ A simple web application for managing library books, events, and user contacts.
 - Responsive web design
 - Basic error handling and security
 
-## Installation
-
-1. Create MySQL database:
-```bash
-mysql -u root -p < library_db.sql
+ 
